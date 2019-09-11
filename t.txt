@@ -1,4 +1,8 @@
 fff
 hello world 
 and hello me
+<<<<<<< HEAD
 2
+=======
+1
+>>>>>>> 09b4118ffb6d64a7f2897f7afa39ca8fbb4ad8dc
